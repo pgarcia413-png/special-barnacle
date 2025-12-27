@@ -1,10 +1,25 @@
-<form action="" class="flex-ns mb3">
+<div id="newsletter-success" class="pa3 bg-light-green dark-green mb3 dn">
+  Thanks for subscribing!
+</div>
 
-  <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" action="newsletter-subscribe">
-    <input type="text" id="email" placeholder="Your email" class="w-100">
-    <label for="email">Your email</label>
+<form name="newsletter" method="POST" netlify netlify-honeypot="bot-field" action="/?newsletter=success"
+  class="flex-ns mb3">
+
+  <input type="hidden" name="form-name" value="newsletter">
+  <input type="hidden" name="bot-field">
+
+  <fieldset class="flex-auto mb2 mb0-ns mr2-ns">
+    <input type="email" name="email" placeholder="Your email" class="w-100" required>
+    <label>Your email</label>
   </fieldset>
 
   <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Submit</button>
 
 </form>
+
+<script>
+  if (window.location.search.includes("newsletter=success")) {
+    var msg = document.getElementById("newsletter-success");
+    if (msg) msg.classList.remove("dn");
+  }
+</script>
