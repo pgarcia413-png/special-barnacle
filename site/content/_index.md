@@ -15,8 +15,12 @@ products:
     - heading: Paralegal Support
       image: /img/paralegal.svg
       text: "Taluma’s paralegal services are structured to reduce administrative burden while supporting legal accuracy and compliance. We assist with form preparation as directed by you or your attorney, along with administrative and business support that helps keep operations running smoothly. These services are provided within a clearly defined scope and may be expanded through written agreement as needed. By combining meticulous organization with professional discretion, Taluma helps ensure that essential documentation and processes are handled efficiently, allowing you and your legal team to stay focused on what matters most."
+    - heading: Notary Services (California Only)
+      image: /img/notary.svg
+      text: "Taluma offers convenient notary services exclusively within the state of California (Los Angeles-based). We provide professional, reliable notarization to support your business and administrative needs, ensuring documents are executed properly and in compliance with California notary laws. Whether as a standalone service or in coordination with our bookkeeping or paralegal support, Taluma’s notary services add an extra layer of ease and confidence when finalizing important paperwork."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Our mission is to bring clarity, accuracy, and peace of mind to complex business operations. We support individuals, small businesses, nonprofits, and professionals with thoughtful bookkeeping and paralegal services so our clients can focus on what matters most, knowing the details are handled with care, discretion, and integrity.
+
 ---
 

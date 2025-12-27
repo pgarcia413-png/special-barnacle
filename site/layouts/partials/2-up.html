@@ -4,25 +4,49 @@
     <p class="mb4 mw6">{{.intro.text}}</p>
 
     <div class="flex-ns mhn2-ns mb3">
-        {{ range $i, $p := .products }}
-        <div class="w-50-ns
-  {{ if eq $i 0 }}br-ns b--light-gray pr4-ns{{ end }}
-  {{ if eq $i 1 }}pl4-ns ml3-ns{{ end }}
-  pb3 mb3 mb0-ns">
+      {{ range $i, $p := .products }}
+        {{ if lt $i 2 }}
+          <div class="w-50-ns
+            {{ if eq $i 0 }}br-ns b--light-gray pr4-ns{{ end }}
+            {{ if eq $i 1 }}pl4-ns ml3-ns{{ end }}
+            pb3 mb3 mb0-ns">
 
+            <img src="{{ $p.image }}" alt="" class="center db mb3" style="width: 240px">
 
+            {{ with $p.heading }}
+              <h3 class="f4 b lh-title mb2">{{ . }}</h3>
+            {{ end }}
 
-        <img src="{{ $p.image }}" alt="" class="center db mb3" style="width: 240px">
-
-        {{ with $p.heading }}
-          <h3 class="f4 b lh-title mb2">{{ . }}</h3>
+            <p class="f6 lh-copy">{{ $p.text }}</p>
+          </div>
         {{ end }}
-
-        <p class="f6 lh-copy">{{ $p.text }}</p>
-
-      </div>
       {{ end }}
     </div>
+
+    {{ with index .products 2 }}
+  <div class="mw6 center pt4 pb4 bt b--light-gray mb4">
+    <div class="flex items-start">
+      
+      <img
+        src="{{ .image }}"
+        alt=""
+        class="mr3"
+        style="width: 240px"
+      >
+
+      <div>
+        {{ with .heading }}
+          <h3 class="f5 b lh-title mb2">{{ . }}</h3>
+        {{ end }}
+
+        <p class="f6 lh-copy mb0">{{ .text }}</p>
+      </div>
+
+    </div>
+  </div>
+{{ end }}
+
+
 
     <div class="tc">
       <a href="/contact" class="btn raise">Contact Us</a>
