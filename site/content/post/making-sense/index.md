@@ -1,28 +1,43 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
-image: blog-flavor_wheel.jpg
+title: Bookkeeping vs CPA (What’s the Difference and Do You Need Both?)
+date: 2025-12-27T15:00:10.000Z
+description: Bookkeeping and accounting are often lumped together, but they serve very different purposes. 
 ---
+Understanding the difference helps you hire the right support and avoid paying for services you don’t need.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## What a bookkeeper does
+A bookkeeper focuses on **day-to-day financial accuracy:**
+- Recording transactions
+- Reconciling bank and credit card accounts
+- Categorizing expenses
+- Managing invoices and bills
+- Producing monthly reports
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Think of bookkeeping as maintaining the health record of your business.
 
-## What the updates mean to you
+## What a CPA does
+A Certified Public Accountant (CPA) typically handles:
+- Tax preparation and filing
+- Tax strategy and compliance
+- Financial forecasting
+- Business structure advice
+- Audits (if needed)
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+CPAs rely on clean books to do their work effectively.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+## The key difference
+- Bookkeepers manage the present.
+- CPAs plan and report on the past and future.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+One without the other creates problems. A CPA can’t give good advice if the books are messy. A bookkeeper doesn’t replace tax strategy.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+## Do you need both?
+Most small businesses do best with:
+- A bookkeeper year-round
+- A CPA at tax time or quarterly
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+This combination keeps costs down and accuracy high.
+
+>Bottom line: When bookkeeping is neglected, CPAs often have to “fix” issues during tax season—at much higher hourly rates. Clean books make everything else easier, cheaper, and less stressful.
+
+If you’d like clarity around your books or aren’t sure where to start, a bookkeeping review can help you understand exactly where things stand and what to do next.
