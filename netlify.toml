@@ -1,17 +1,4 @@
-[build.environment]
-  NETLIFY_USE_YARN = "true"
-  YARN_VERSION = "1.22.17"
-
+# netlify.toml
 [build]
-  command = "yarn build"
   publish = "dist"
-
-[context.deploy-preview]
-  command = "yarn build:preview"
-
-[dev]
-  framework = "hugo"
-  targetPort = 3000
-
-  [plugins.inputs]
-    record = true
+  command = "npm run build"
