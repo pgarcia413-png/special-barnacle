@@ -1,15 +1,17 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
+    <h2 class="f3 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw6">{{.intro.text}}</p>
 
     <div class="flex-ns mhn2-ns mb3">
       {{ range $i, $p := .products }}
         {{ if lt $i 2 }}
           <div class="w-50-ns
-            {{ if eq $i 0 }}br-ns b--light-gray pr4-ns{{ end }}
+            {{ if eq $i 0 }}br-ns pr4-ns{{ end }}
             {{ if eq $i 1 }}pl4-ns ml3-ns{{ end }}
-            pb3 mb3 mb0-ns">
+            pb3 mb3 mb0-ns" 
+            {{ if eq $i 0 }}style="border-right-color:#e6e6e6;"{{ end }}
+          >
 
             <img src="{{ $p.image }}" alt="" class="center db mb3" style="width: 240px">
 
@@ -24,13 +26,13 @@
     </div>
 
     {{ with index .products 2 }}
-  <div class="mw6 center pt4 pb4 bt b--light-gray mb4">
-    <div class="flex items-start">
+  <div class="mw6 center pt4 pb4 bt mb4" style="border-top-color:#e6e6e6;">
+    <div class="flex flex-column flex-row-ns items-start">
       
       <img
         src="{{ .image }}"
         alt=""
-        class="mr3"
+        class="mb3 mb0-ns mr0 mr3-ns"
         style="width: 240px"
       >
 

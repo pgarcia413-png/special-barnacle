@@ -4,7 +4,7 @@ subtitle: You focus on what matters, we'll handle the rest
 image: /img/homehero.png
 blurb:
     heading: Why Taluma?
-    text: "Taluma is intentionally small, and that’s the point. You’re not handed off to layers of staff or treated like a ticket in a system. You get personal attention from a team that actually knows your books and your goals. We work closely with nonprofits, real estate businesses, and small businesses that need clarity, accuracy, and calm around their finances. The result is confidence: confidence in your numbers, in your compliance, and in your decisions. When tax time comes, there’s no panic scramble, just relief, because everything has already been handled with care, precision, and foresight. With Taluma, you can stop worrying about whether things are being done right and start trusting that your money is being taken care of."
+    text: "Taluma is intentionally small, and that’s the point. You’re not handed off to layers of staff or treated like a ticket in a system. You get personal attention from a team that actually knows your books and your goals. We work closely with individuals, nonprofits, real estate businesses, and small businesses that need clarity, accuracy, and calm around their finances. The result is confidence: confidence in your numbers, in your compliance, and in your decisions. When tax time comes, there’s no panic scramble, just relief, because everything has already been handled with care, precision, and foresight. With Taluma, you can stop worrying about whether things are being done right and start trusting that your money is being taken care of."
 intro:
     heading: "What we offer"
     text: ""

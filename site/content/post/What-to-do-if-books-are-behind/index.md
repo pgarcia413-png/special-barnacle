@@ -6,12 +6,12 @@ description: If your books are behind, you’re not alone and you’re not faili
 
 The important thing is knowing what to do next.
 
-## Step 1: Don’t avoid it
+### Step 1: Don’t avoid it
 Avoidance is the most expensive choice. The longer books are ignored, the harder and costlier cleanup becomes.
 
 Late books don’t mean disaster, but silence does.
 
-## Step 2: Gather what you have
+### Step 2: Gather what you have
 You don’t need perfection to start. Begin with:
 * Bank statements
 * Credit card statements
@@ -20,7 +20,7 @@ You don’t need perfection to start. Begin with:
 
 A professional can work with gaps.
 
-## Step 3: Prioritize accuracy over speed
+### Step 3: Prioritize accuracy over speed
 Rushing to “just get it done” often creates more problems. Cleanup should focus on:
 * Correct balances
 * Proper categorization & classification
@@ -28,7 +28,7 @@ Rushing to “just get it done” often creates more problems. Cleanup should fo
 
 Clean books once are better than rushed books twice.
 
-## Step 4: Consider a cleanup project
+### Step 4: Consider a cleanup project
 Bookkeeping cleanup is a structured process:
 * Reviewing past periods
 * Reconciling accounts
@@ -37,7 +37,7 @@ Bookkeeping cleanup is a structured process:
 
 Once cleaned, monthly bookkeeping becomes straightforward and affordable.
 
-## Step 5: Put systems in place
+### Step 5: Put systems in place
 After cleanup, ongoing bookkeeping prevents this from happening again. Most business owners feel immediate relief once they can trust their numbers.
 
 >The good news: Behind books are fixable. And once they’re fixed, many business owners wish they’d done it sooner.
