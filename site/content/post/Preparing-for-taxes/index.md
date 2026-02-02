@@ -1,6 +1,6 @@
 ---
 title: Preparing for Taxes With Your Accountant 
-Subtitle: How to Make Tax Season Easier and Less Stressful
+subtitle: How to Make Tax Season Easier and Less Stressful
 date: 2026-02-01T00:20:00.000Z
 description: Tax season doesn’t have to feel chaotic. In most cases, stress comes not from the taxes themselves, but from uncertainty.
 ---

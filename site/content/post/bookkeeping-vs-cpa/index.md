@@ -1,6 +1,6 @@
 ---
 title: Bookkeeping vs CPA 
-Subtitle: What’s the Difference and Do You Need Both?
+subtitle: What’s the Difference and Do You Need Both?
 date: 2025-12-27T15:00:10.000Z
 description: Bookkeeping and accounting are often lumped together, but they serve very different purposes. 
 ---
