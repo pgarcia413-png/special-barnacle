@@ -1,10 +1,6 @@
 <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
   <h2 class="f5 b lh-title mb1 primary">{{ .Title }}</h2>
 
-    <p style="border:2px solid red; padding:6px;">
-    TEMPLATE CHECK: home-li.html is being used ✅
-  </p>
-
   {{ with .Params.subtitle }}
     <p class="f6 i lh-copy mid-gray mb1">{{ . }}</p>
   {{ end }}
