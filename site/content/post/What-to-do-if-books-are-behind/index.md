@@ -1,5 +1,6 @@
 ---
-title: What to Do If Your Books Are Behind (And How to Fix Them Without Panic)
+title: What to Do If Your Books Are Behind 
+Subtitle: And How to Fix Them Without Panic
 date: 2025-12-27T00:04:10.000Z
 description: If your books are behind, you’re not alone and you’re not failing. This happens to many business owners, especially during growth, transitions, or busy seasons.
 ---

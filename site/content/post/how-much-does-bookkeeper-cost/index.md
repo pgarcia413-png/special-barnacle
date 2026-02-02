@@ -1,5 +1,6 @@
 ---
-title: 'How Much Does a Bookkeeper Cost? A Clear Breakdown for Small Businesses'
+title: How Much Does a Bookkeeper Cost? 
+Subtitle: A Clear Breakdown for Small Businesses
 date: 2025-12-26T15:04:10.000Z
 description: >-
   If you’re a business owner, chances are you’ve asked this question while already feeling a little behind: How much does a bookkeeper cost, and what am I actually paying for?
