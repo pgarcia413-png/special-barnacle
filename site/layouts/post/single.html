@@ -6,10 +6,13 @@
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
-    <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ with .Resources.Get .Params.image }}<img src="{{ .RelPermalink }}" alt="{{ $.Title }}" />{{ end }}
+    <div class="cms">
+      <p class="f5 lh-copy mid-gray mt0 mb3">{{ .Description }}</p>
+      {{ with .Resources.Get .Params.image }}
+        <img class="w-100 br2 mb3" src="{{ .RelPermalink }}" alt="{{ $.Title }}" />
+      {{ end }}
       {{ .Content }}
     </div>
+
   </div>
 {{ end }}

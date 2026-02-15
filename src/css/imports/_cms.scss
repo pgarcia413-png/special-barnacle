@@ -8,7 +8,7 @@
   }
 
   & h1 {
-    font-size: 2.25rem;
+    font-size: 1.9rem;
   }
 
   & h2 {
@@ -26,6 +26,12 @@
   & h5 {
     font-size: .875rem;
   }
+	/* Paragraph tuning */
+	& p {
+		font-size: 0.9rem;
+		line-height: 1.65;
+		margin-bottom: 1rem;
+	}
 
 	/* Images */
 	& img {
@@ -47,26 +53,38 @@
 	}
 
 	/* Lists */
+	& ul,
+	& ol {
+		font-size: 0.9rem;
+		line-height: 1.5;
+	}
+
+	& li {
+		margin-bottom: 0.3rem;
+	}
+
 	& ul, & ol, & li {
 		position: relative;
 	}
 
-	& ul, & ol {
-		margin-bottom: var(--spacing-medium);
+	& ul,
+	& ol {
+		margin: 0 0 0.75rem 1.25rem;
+		padding-left: 0;
 	}
+
 
 	& ul ul, & ol ol {
 		padding-left: var(--spacing-small);
 	}
 
 	& ul {
-		margin-left: 1.33rem;
-		& >li:before {
-			content: '✱';
-			left: -1.33rem;
-			position: absolute;
-			color: var(--primary);
-		}
+  		list-style: disc;
+  		margin-left: 1.25rem;
+
+  		& > li:before {
+    		content: none;
+  		}
 	}
 
 	& ol {
@@ -84,6 +102,15 @@
       color: var(--primary);
     }
 	}
+	
+	& p + ul,
+	& p + ol {
+		margin-top: -0.5rem;
+	}
+
+	& li > p {
+		margin: 0.25rem 0;
+	}
 
   /* Blockquotes */
   & blockquote {
@@ -91,9 +118,9 @@
     display: block;
     border-radius: var(--border-radius);
     padding: var(--spacing-medium);
-    color: var(--primary);
-    font-weight: 700;
-    font-size: 1.25rem;;
+    color: var(--black);
+    font-weight: 500;
+    font-size: 1.05rem;;
     margin-bottom: var(--spacing-medium);
     & p {
       margin: 0;
