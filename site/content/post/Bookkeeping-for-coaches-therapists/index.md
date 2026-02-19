@@ -1,7 +1,7 @@
 ---
 title: Bookkeeping for Private Practice & Coaching Professionals 
 subtitle: What you need to know
-date: 2026-02-13T00:20:00.000Z
+date: 2026-02-13T00:00:00.000Z
 description: Running a client-centered practice requires focus, emotional presence, and consistent energy. Most practitioners enter this work to support others, not to manage spreadsheets.
 ---
 
