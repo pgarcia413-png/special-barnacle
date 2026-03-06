@@ -7,7 +7,7 @@ description: Running a business means wearing a lot of hats. Bookkeeping is ofte
 
 A few missed weeks of bookkeeping can easily turn into several months of transactions that haven’t been reviewed, categorized, or reconciled. When that happens, many business owners start to worry they’ve fallen too far behind.
 
-The good news is that catching up your books is very common and very fixable.
+The good news is that catching up your books is very common and very fixable. If you're not sure where to begin, here are a few practical steps on [what to do if your books are behind](/post/what-to-do-if-books-are-behind/).
 
 ### What Is Catch-Up Bookkeeping?
 Catch-up bookkeeping is the process of bringing financial records up to date when bookkeeping has fallen behind.
@@ -17,7 +17,7 @@ This usually means reviewing past transactions, categorizing income and expenses
 Once the backlog is resolved, bookkeeping can return to a normal monthly process.
 
 ### Signs Your Business May Need Catch-Up Bookkeeping
-Many small business owners don’t realize they’ve fallen behind until tax season approaches. Some common signs include:
+Many small business owners don’t realize they’ve fallen behind until [tax season approaches and they begin preparing their records](/post/preparing-for-taxes/). Some common signs include:
 
 - Transactions in QuickBooks marked as “uncategorized”
 - Bank accounts that haven’t been reconciled for several months
@@ -53,4 +53,9 @@ Keeping records current throughout the year reduces stress during tax season and
 
 >Final Thoughts: Falling behind on bookkeeping happens to many business owners, especially when the focus is on running and growing the business. Catch-up bookkeeping allows businesses to restore clarity and regain confidence in their financial records so they can move forward with organized, reliable information.
 
-Not sure if your books are where they should be? A bookkeeping review can quickly reveal what’s working, what needs attention, and how to move forward.
+Not sure if your books are where they should be? Schedule a [bookkeeping review](https://talumallc.com/contact/) to understand exactly where things stand and what to do next.
+
+### Related Reading
+
+- [Preparing Your Books for Tax Season](/post/preparing-for-taxes/)
+- [What to Do If Your Books Are Behind](/post/what-to-do-if-books-are-behind/)
