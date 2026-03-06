@@ -22,5 +22,19 @@ values:
     heading: Our values
     text: Our mission is to bring clarity, accuracy, and peace of mind to complex business operations. We support individuals, small businesses, nonprofits, and professionals with thoughtful bookkeeping and paralegal services so our clients can focus on what matters most, knowing the details are handled with care, discretion, and integrity.
 
+testimonials:
+  heading: "What Clients Are Saying"
+  quotes:
+    - text: "Working with you has been a real pleasure. I truly appreciate your patience and professionalism. You’re always on time, responsive, and ready to answer every question clearly. And you deliver all of that at a very fair and affordable rate!"
+      author: K.S.
+
+    - text: "Taluma is great to work with. The team is knowledgeable, efficient, and consistently dependable. As a lean nonprofit, Taluma takes bookkeeping off our plate, allowing us to stay focused on our mission."
+      author: Jeannine Wisnosky, Friends of LA County Law Library
+
+    - text: "Working with Maren and whole Tulma team has been a dream! I'll never forget, a few years ago I used an app to track my expenses and come tax time, it did not deliver what was promised and my books were an absolute mess. I spent weeks sorting it all out and finally decided it's time to invest in a bookkeeper. Since I began working with her, my mind is at ease. There is so much spaciousness and everything is accurately tracked and accounted for. I'm so grateful that I can focus on actually running my business instead of being in the weeds. Thank you so much for all you do!!!"
+      author: Brittney King CEO of King Experiences LLC
+
+    - text: "Maren and the Taluma team have been an answered prayer. I've been doing my own bookkeeping for years, and come tax time, I was in tears. Bookkeeping is not my zone of genius. With Maren on my side, everything has been effortless and I'm having the most pleasant tax year in history and I can focus my energy on where I shine in my work. I cannot recommend them enough. Thank you Maren and Taluma team!"
+      author: Lisset King
 ---
 
