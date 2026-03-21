@@ -52,8 +52,10 @@ Extremely low prices can sometimes mean:
 
 Bookkeeping isn’t just data entry—it’s about accuracy and trust.
 
->Bottom line: Expect to invest a few hundred dollars per month for peace of mind, clarity, and clean financials. That’s often far less than the cost of mistakes.
+>**Bottom line:** Expect to invest a few hundred dollars per month for peace of mind, clarity, and clean financials. That’s often far less than the cost of mistakes.
 
-If you’d like clarity around your books or aren’t sure where to start, a bookkeeping review can help you understand exactly where things stand and what to do next.
+**If you’d like clarity around your books or aren’t sure where to start, a [bookkeeping review](https://talumallc.com/contact/) can help you understand exactly where things stand and what to do next.**
 
-
+- [What Is Catch-Up Bookkeeping?](/post/catch-up-bookkeeping/) 
+- [Preparing Your Books for Tax Season](/post/preparing-for-taxes/)
+- [What to Do If Your Books Are Behind](/post/what-to-do-if-books-are-behind/)

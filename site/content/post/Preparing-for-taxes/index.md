@@ -56,6 +56,6 @@ If you’re unsure whether your books are ready, it’s better to ask before dea
 
 Preparation is most effective when it’s calm, not rushed.
 
->Bottom line: Preparing for taxes with your accountant is less about paperwork and more about trust in your numbers. Clean, organized books allow your accountant to do what they do best - minimize risk, maximize accuracy, and help you move forward with confidence. A little preparation now can save significant stress later.
+>**Bottom line:** Preparing for taxes with your accountant is less about paperwork and more about trust in your numbers. Clean, organized books allow your accountant to do what they do best - minimize risk, maximize accuracy, and help you move forward with confidence. A little preparation now can save significant stress later.
 
-If you’d like clarity around your books or aren’t sure where to start, a bookkeeping review can help you understand exactly where things stand and what to do next.
+**If you’d like clarity around your books or aren’t sure where to start, a [bookkeeping review](https://talumallc.com/contact/) can help you understand exactly where things stand and what to do next.**

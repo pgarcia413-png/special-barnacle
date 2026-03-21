@@ -88,6 +88,6 @@ With organized bookkeeping, growth becomes intentional.
 
 Clear numbers support confident pricing, hiring decisions, and sustainable expansion.
 
->Bottom line: You deserve financial systems that support the important work you do. Organized bookkeeping creates clarity, reduces stress, and protects the longevity of your practice. When your numbers are structured and accurate, you’re free to focus on serving clients with confidence. Your work centers on supporting others. Your bookkeeping should support you.
+>**Bottom line:** You deserve financial systems that support the important work you do. Organized bookkeeping creates clarity, reduces stress, and protects the longevity of your practice. When your numbers are structured and accurate, you’re free to focus on serving clients with confidence. Your work centers on supporting others. Your bookkeeping should support you.
 
-If you’d like clarity around your books or aren’t sure where to start, a bookkeeping review can help you understand exactly where things stand and what to do next.
+**If you’d like clarity around your books or aren’t sure where to start, a [bookkeeping review](https://talumallc.com/contact/) can help you understand exactly where things stand and what to do next.**

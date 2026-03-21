@@ -51,9 +51,9 @@ After catch-up bookkeeping is complete, the next step is maintaining a regular b
 
 Keeping records current throughout the year reduces stress during tax season and helps business owners stay informed about their financial position.
 
->Final Thoughts: Falling behind on bookkeeping happens to many business owners, especially when the focus is on running and growing the business. Catch-up bookkeeping allows businesses to restore clarity and regain confidence in their financial records so they can move forward with organized, reliable information.
+>**Final Thoughts:** Falling behind on bookkeeping happens to many business owners, especially when the focus is on running and growing the business. Catch-up bookkeeping allows businesses to restore clarity and regain confidence in their financial records so they can move forward with organized, reliable information.
 
-Not sure if your books are where they should be? Schedule a [bookkeeping review](https://talumallc.com/contact/) to understand exactly where things stand and what to do next.
+**Not sure if your books are where they should be? Schedule a [bookkeeping review](https://talumallc.com/contact/) to understand exactly where things stand and what to do next.**
 
 ### Related Reading
 

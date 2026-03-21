@@ -41,6 +41,11 @@ Once cleaned, monthly bookkeeping becomes straightforward and affordable.
 ### Step 5: Put systems in place
 After cleanup, ongoing bookkeeping prevents this from happening again. Most business owners feel immediate relief once they can trust their numbers.
 
->The good news: Behind books are fixable. And once they’re fixed, many business owners wish they’d done it sooner.
+>**The good news:** Behind books are fixable. And once they’re fixed, many business owners wish they’d done it sooner.
 
-If you’d like clarity around your books or aren’t sure where to start, a bookkeeping review can help you understand exactly where things stand and what to do next.
+**If you’d like clarity around your books or aren’t sure where to start, a [bookkeeping review](https://talumallc.com/contact/) can help you understand exactly where things stand and what to do next.**
+
+### Related Reading
+
+- [What Is Catch-Up Bookkeeping?](/post/catch-up-bookkeeping/) 
+- [Preparing Your Books for Tax Season](/post/preparing-for-taxes/)

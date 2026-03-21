@@ -55,12 +55,12 @@ Even a quick monthly review of your Profit & Loss can help you spot unusual chan
 #### Communicate changes early
 If you open a new account, take a loan, or change payment systems, your bookkeeper should know right away.
 
->Bottom Line: Reconciliation isn’t just about clean books but about confidence. When your accounts are properly reconciled, you know where your business stands, your reports become useful tools, and tax season becomes far less stressful. Most bookkeeping problems aren’t about complexity, they’re about consistency.
+>**Bottom Line:** Reconciliation isn’t just about clean books but about confidence. When your accounts are properly reconciled, you know where your business stands, your reports become useful tools, and tax season becomes far less stressful. Most bookkeeping problems aren’t about complexity, they’re about consistency.
 
-Not sure if your books are where they should be? Schedule a [bookkeeping review](https://talumallc.com/contact/) to understand exactly where things stand and what to do next.
+**Not sure if your books are where they should be? Schedule a [bookkeeping review](https://talumallc.com/contact/) to understand exactly where things stand and what to do next.**
 
 ### Related Reading
 
 - [What Is Catch-Up Bookkeeping?](/post/catch-up-bookkeeping/) 
-- [Preparing Your Books for Tax Season](/post/preparing-for-taxes/)
 - [What to Do If Your Books Are Behind](/post/what-to-do-if-books-are-behind/)
+- [5 Signs Your Books Aren’t Properly Reconciled](/post/five-signs-books-not-properly-reconciled/)

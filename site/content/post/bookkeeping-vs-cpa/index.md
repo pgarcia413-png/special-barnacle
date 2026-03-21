@@ -39,6 +39,6 @@ Most small businesses do best with:
 
 This combination keeps costs down and accuracy high.
 
->Bottom line: When bookkeeping is neglected, CPAs often have to “fix” issues during tax season—at much higher hourly rates. Clean books make everything else easier, cheaper, and less stressful.
+>**Bottom line:** When bookkeeping is neglected, CPAs often have to “fix” issues during tax season—at much higher hourly rates. Clean books make everything else easier, cheaper, and less stressful.
 
-If you’d like clarity around your books or aren’t sure where to start, a bookkeeping review can help you understand exactly where things stand and what to do next.
+**If you’d like clarity around your books or aren’t sure where to start, a [bookkeeping review](https://talumallc.com/contact/) can help you understand exactly where things stand and what to do next.**
