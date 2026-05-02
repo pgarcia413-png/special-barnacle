@@ -1,6 +1,6 @@
 ---
 title: What Is Cash Flow (And Why Profit Isn't the Same Thing)? 
-subtitle: Your P&L can show a great month while your bank account can still be empty. Here's why.
+subtitle: Why your P&L shows a great month while your bank account can still be empty.
 date: 2026-04-17T12:00:00.000Z
 description: You just had one of your best months yet. Clients paid on time, you stayed busy, your revenue looked great on paper. Then you check your bank account and wonder why it feels like you're barely keeping your head above water. 
 ---
