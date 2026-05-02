@@ -27,7 +27,7 @@ testimonials:
   quotes:
     - text: "I truly appreciate Maren as a bookkeeper extraordinaire for her patience with my approach to business.  I am a creative who began a business without a clue.  Despite a certain pragmatic streak, I rest easy working towards the common goal of keeping the numbers on the straight and narrow with Maren.  Tracking and verifying payments, strange slips of paper representing receipts, monitoring the erratic nature of a business in this day and age with humor and ease.  As my only employee,  Maren’s impact is essential, making my aesthetic and business decisions easier and focused, creating structure in a fluid and often times ambiguous retail economy."
       author: Carla Weber
-      
+
     - text: "Working with you has been a real pleasure. I truly appreciate your patience and professionalism. You’re always on time, responsive, and ready to answer every question clearly. And you deliver all of that at a very fair and affordable rate!"
       author: K.S.
 
