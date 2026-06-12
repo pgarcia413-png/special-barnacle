@@ -52,7 +52,9 @@ Sorting this out as you go is so much less painful than sorting it out in March.
 You don't need to overhaul everything today. Three steps, in order:
 
 1. Open (or confirm) a dedicated business account. If you're still using one account for everything, this is the foundation everything else sits on. It doesn't need to be fancy, it just needs to be separate.
+
 2. Make a plan for the backlog. If the last several months have some mixing in them, you don't have to untangle it all in one sitting. Flag it, set aside time with your bookkeeper, and work through it in batches. The goal is progress, not a perfect afternoon.
+
 3. Build the in-the-moment habit. Going forward, when a mix-up happens, handle it the same way every time: note it, categorize it correctly, and let it go. Consistency here is what keeps the drift from starting again.
 
 
