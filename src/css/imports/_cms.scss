@@ -91,16 +91,20 @@
 		list-style: none;
 		margin-left: var(--spacing-medium);
 		counter-reset: i 0;
-    & >li:before {
-      font-weight: 800;
-      left: var(--spacing-medium);
-      margin-right: 1.33rem;
-      position: relative;
-      height: 100%;
-      content: counter(i);
-      counter-increment: i;
-      color: var(--primary);
-    }
+
+		& > li {
+			display: flex;
+			align-items: baseline;
+
+			&:before {
+				flex-shrink: 0;
+				font-weight: 800;
+				margin-right: 0.75rem;
+				content: counter(i) ".";
+				counter-increment: i;
+				color: var(--primary);
+			}
+		}
 	}
 	
 	& p + ul,
