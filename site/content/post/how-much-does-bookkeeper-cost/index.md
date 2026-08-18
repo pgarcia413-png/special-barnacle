@@ -6,14 +6,14 @@ description: >-
   If you’re a business owner, chances are you’ve asked this question while already feeling a little behind: How much does a bookkeeper cost, and what am I actually paying for?
 ---
 
-The honest answer is: it depends, but not in a mysterious way. Let’s break it down clearly so you can make a confident decision.
+The honest answer is: it depends. Let’s break it down clearly so you can make an informed decision.
 
 ### Typical bookkeeping costs
 
 Most small businesses pay for bookkeeping in one of three ways:
 
 #### Hourly pricing
-Bookkeepers may charge anywhere from **$45–$80 per hour**, depending on experience and location. This model is common for cleanup work or short-term projects.
+Bookkeepers may charge anywhere from **$45–$100 per hour**, depending on experience and location. This model is common for cleanup work or short-term projects.
 
 #### Monthly flat fees
 Ongoing bookkeeping may also be priced monthly, often between $200–$800 per month for small businesses. The price depends on:

@@ -23,7 +23,7 @@ Say your books take you six hours a month, reconciling, categorizing, chasing do
 
 And that's assuming the work is right. The expensive part of DIY bookkeeping usually isn't the hours, it's the misclassified expenses, the missed deductions, and the [catch-up work](https://talumallc.com/post/catch-up-bookkeeping/) when things get too far behind to untangle on your own.
 
-Compare that honestly against [what a bookkeeper actually costs](https://talumallc.com/post/how-much-does-bookkeeper-cost/). The math surprises people more often than you'd think.
+Compare that honestly against [what a bookkeeper actually costs](https://talumallc.com/post/how-much-does-bookkeeper-cost/). The math may surprise you more than you'd think.
 
 ## So how do you know it's time?
 A few signs that show up again and again:
@@ -32,9 +32,9 @@ A few signs that show up again and again:
 - You avoid opening QuickBooks (you know the feeling I mean)
 - You couldn't tell me your profit last month without going and looking
 - Tax season involves a frantic weekend and an apologetic email to your accountant
-- You've started making decisions on gut feel because the numbers aren't current enough to trust
+- You've started making decisions on gut feelings because the numbers aren't current enough to trust
 
-That last one matters most. Bookkeeping isn't really about compliance. It's about having numbers you can [actually make decisions with](https://talumallc.com/post/how-to-use-financial-reports/) and if yours are three months stale, you're flying blind.
+Bookkeeping isn't really about compliance. It's about having numbers you can [actually make decisions with](https://talumallc.com/post/how-to-use-financial-reports/) and if yours are three months stale, you're flying blind.
 
 ### What are you actually paying for?
 
@@ -50,7 +50,7 @@ Here's what's genuinely difficult to DIY well:
 
 **The accountant handoff.** Your CPA charges for their time. Handing them organized, reconciled books instead of a shoebox is often the single fastest way to lower that bill, which is worth [preparing for properly](https://talumallc.com/post/preparing-for-taxes/) either way.
 
-You're not buying data entry. You're buying numbers you don't have to second-guess.
+It's more than just data entry. You're buying numbers you don't have to second-guess.
 
 ## What if you're not ready to hand it all over?
 Then don't. This isn't all-or-nothing.
@@ -76,7 +76,7 @@ Moving from Stage 1 to Stage 2 or Stage 3 isn't giving up. It's the same thing y
 
 >**Bottom Line:** DIY bookkeeping isn't a failure and hiring help isn't a luxury. They're just different answers to the same question, and the right answer changes as your business does. If doing it yourself is costing you more time, money, or peace of mind than it's saving, that's your signal. You don't have to wait until it's a mess.
 
-**Ready to find out where your books actually stand?** Book a [bookkeeping review](https://talumallc.com/contact/) nd let's take an honest look together.
+**Ready to find out where your books actually stand?** Book a [bookkeeping review](https://talumallc.com/contact/) and let's take an honest look together.
 
 ### Related Reading
 

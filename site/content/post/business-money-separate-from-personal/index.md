@@ -7,7 +7,7 @@ description: Maybe you grabbed coffee with a client and paid with your personal 
 
 So your business checking account has covered a few personal expenses here and there, just to keep things moving.
 
-None of that makes you a bad business owner. It makes you a busy one. But it does mean your books are quietly becoming harder to trust and harder to use.
+None of that makes you a bad business owner. You're busy, we get it. But it does mean your books are slowly becoming harder to trust and harder to use.
 
 ## The Slow Drift
 This almost never happens on purpose. Nobody decides one day to stop separating business and personal money. It's one card swipe, then another, then a transfer "to even things out" that you mean to document and don't.
@@ -24,7 +24,7 @@ There's a legal piece here as well, especially if you're an LLC. Part of what an
 And if a business loan, line of credit, or even a new lease is ever in your future, lenders and landlords want to see clean business financials, income and expenses that clearly belong to the business, with a track record they can read at a glance. Mixed accounts make that story much harder to tell.
 
 ## What "Separate" Looks Like
-Separation doesn't mean you need to be rigid or never make a mistake. It's means having a system that can absorb the occasional slip-up without losing the thread.
+Separation doesn't mean you need to be rigid or never make a mistake. Having a system that can absorb the occasional slip-up without losing the thread is what is important.
 
 That looks like:
 

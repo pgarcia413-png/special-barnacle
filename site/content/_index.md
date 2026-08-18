@@ -4,7 +4,7 @@ subtitle: You focus on what matters, we'll handle the rest
 image: /img/homehero.png
 blurb:
     heading: Why Taluma?
-    text: "Taluma is intentionally small, and that’s the point. You’re not handed off to layers of staff or treated like a ticket in a system. You get personal attention from a team that actually knows your books and your goals. We work closely with individuals, nonprofits, real estate businesses, and small businesses that need clarity, accuracy, and calm around their finances. The result is confidence: confidence in your numbers, in your compliance, and in your decisions. When tax time comes, there’s no panic scramble, just relief, because everything has already been handled with care, precision, and foresight. With Taluma, you can stop worrying about whether things are being done right and start trusting that your money is being taken care of."
+    text: "Taluma is intentionally small, and that’s the way we like it. You’re not handed off to layers of staff or treated like a ticket in a system. You get personal attention from a team that actually knows your books and your goals. We work closely with individuals, nonprofits, real estate businesses, and small businesses that need clarity, accuracy, and calm around their finances. The result is confidence: confidence in your numbers, in your compliance, and in your decisions. When tax time comes, there’s no panic scramble, just relief, because everything has already been handled with care, precision, and foresight. With Taluma, you can stop worrying about whether things are being done right and start trusting that your money is being taken care of."
 intro:
     heading: "What we offer"
     text: ""
@@ -20,7 +20,7 @@ products:
       text: "Taluma offers convenient notary services exclusively within the state of California (Los Angeles-based). We provide professional, reliable notarization to support your business and administrative needs, ensuring documents are executed properly and in compliance with California notary laws. Whether as a standalone service or in coordination with our bookkeeping or paralegal support, Taluma’s notary services add an extra layer of ease and confidence when finalizing important paperwork."
 values:
     heading: Our values
-    text: Our mission is to bring clarity, accuracy, and peace of mind to complex business operations. We support individuals, small businesses, nonprofits, and professionals with thoughtful bookkeeping and paralegal services so our clients can focus on what matters most, knowing the details are handled with care, discretion, and integrity.
+    text: Our mission is to bring clarity, accuracy, and peace of mind to complex business operations. We support individuals, small businesses, nonprofits, and professionals with attentive bookkeeping and paralegal services so our clients can focus on what matters most, knowing the details are handled with care, discretion, and integrity.
 
 testimonials:
   heading: "What Clients Are Saying"

@@ -4,7 +4,7 @@ contact_entries:
   - heading: 
     text: 
   - heading: Working hours
-    text: "Monday – Friday: 9AM – 5PM"
+    text: "Monday – Friday: 9AM – 5PM Pacific"
 ---
 
 
